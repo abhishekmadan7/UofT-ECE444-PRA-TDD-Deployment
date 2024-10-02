@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/abhishekmadan/Desktop/UofT-ECE444-PRA-TDD-Deployment/flask-tddr/env"
+VIRTUAL_ENV="/Users/abhishekmadan/Desktop/UofT-ECE444-PRA-TDD-Deployment/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
